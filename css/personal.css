@@ -1,0 +1,28 @@
+.personal__column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.personal__img {
+  width: 80%;
+  height: 80%;
+  padding-bottom: 60px;
+  padding-left: 60px;
+}
+
+.personal__infolist {
+  padding-left: 60px;
+  list-style: square;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: right;
+  width: 100%;
+  height: 60%;
+  font-size: 17px;
+  font-weight: 500;
+}

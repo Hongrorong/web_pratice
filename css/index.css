@@ -44,7 +44,7 @@
 
 .hello__img__profile {
   height: 100%;
-  width: 75%;
+  width: 65%;
 }
 
 @keyframes shake {
@@ -104,7 +104,7 @@
   align-items: center;
   padding-top: 5px;
   height: 60%;
-  width: 50%;
+  width: 60%;
   font-size: 17px;
 }
 
