@@ -7,6 +7,7 @@
 /* Screens */
 @import "css/index.css";
 @import "css/personal.css";
+@import "css/introduce.css";
 
 body {
   background-color: var(--maincolor);

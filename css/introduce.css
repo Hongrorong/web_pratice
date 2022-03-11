@@ -1,0 +1,25 @@
+.introduce__p {
+  box-sizing: border-box;
+  padding: 0 30px;
+  overflow-y: scroll;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  line-height: 150%;
+}
+
+.introduce__p__body {
+  display: flex;
+  flex-direction: column;
+}
+
+.introduce__time {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--maincolor);
+  margin: 10px 0px;
+}
+
+.introduce__summary {
+  font-size: 15px;
+  opacity: 0.9;
+}
