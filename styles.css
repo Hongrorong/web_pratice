@@ -8,6 +8,8 @@
 @import "css/index.css";
 @import "css/personal.css";
 @import "css/introduce.css";
+@import "css/study.css";
+@import "css/favorite.css";
 
 body {
   background-color: var(--maincolor);
